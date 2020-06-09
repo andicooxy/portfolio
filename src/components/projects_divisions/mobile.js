@@ -1,0 +1,12 @@
+import React, {Component} from 'react';
+
+class Mobile extends Component {
+
+  render(){
+    return(
+    <h1> heloo Mobile</h1>
+    );
+  }
+}
+
+export default Mobile
