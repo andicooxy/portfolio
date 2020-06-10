@@ -29,11 +29,11 @@ class Landingpage extends Component {
            
 
             <div className="social-icons"> 
-              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i class="fa fa-linkedin-square fa-5x white-color" aria-hidden="true"></i></a>
-              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i class="fa fa-bitbucket-square fa-5x white-color" aria-hidden="true"></i></a>
-              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i class="fa fa-github fa-5x white-color" aria-hidden="true"></i></a>
-              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i class="fa fa-gitlab fa-5x white-color" aria-hidden="true"></i></a>
-              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i class="fa fa-gitlab fa-5x white-color" aria-hidden="true"></i></a>
+              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i className="fa fa-linkedin-square fa-5x white-color" aria-hidden="true"></i></a>
+              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i className="fa fa-bitbucket-square fa-5x white-color" aria-hidden="true"></i></a>
+              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i className="fa fa-github fa-5x white-color" aria-hidden="true"></i></a>
+              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i className="fa fa-gitlab fa-5x white-color" aria-hidden="true"></i></a>
+              <a target="_blank" herf="https://www.linkedin.com/in/andy-o-awuku-400bab123/"><i className="fa fa-gitlab fa-5x white-color" aria-hidden="true"></i></a>
             </div>
             </div>
           </Cell>

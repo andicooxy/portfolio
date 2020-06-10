@@ -27,6 +27,19 @@
     padding-top: 3em;
 }
 
+.center-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.center-items p {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 20px 0;
+}
+
 .banner-text {
     /* margin-top: 0 !important; */
     background-color: black;
