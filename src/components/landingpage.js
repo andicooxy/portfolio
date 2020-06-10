@@ -10,9 +10,9 @@ class Landingpage extends Component {
 
   render() {
     return (
-      <div style={{ width: '100%', margin: 'auto' , height: '100%' }}>
+      <div className='landing-grid'>
       
-        <Grid className='landing-grid'>
+        <Grid>
           <Cell col={12} className='align-center'>
           <Card shadow={1} style={{width: '200px',height: 'auto', margin: 'auto'}}>
             <CardTitle expand style={{color: '#fff', background: 'url(0.jpeg) no-repeat'}}>
